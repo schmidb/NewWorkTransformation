@@ -1,1 +1,1 @@
-Sitemap: https://newwork-transformation.de/en/sitemap.xml
+Sitemap: http://localhost:4000/en/sitemap.xml

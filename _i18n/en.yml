@@ -2,7 +2,7 @@ global:
   german: German
   english: English
   title: NewWork Transformation
-  description: Dare to go from 'inside to outside'. <br> We will share our way with you, accompany you if you like to your family dreams and show you ways how relaxation can arrive with you and your family.
+  description: For us, new work is a change in the perspective of our work today. We strive for a coexistence between work and private life that feels fulfilling and worth living in every moment.
   cookie: This website uses cookies to ensure you get the best experience on our website.
   cookiebutton:  Got it
   cookielink: More
@@ -14,7 +14,7 @@ pages:
   portfoliotitle: Our Transformation Portfolio
   contacttitle: Contact Us
   mindsettitle: Our Mindset & Philosophy
-  imprint: Imprint
+  imprint: Imprint for NewWork Transformation
   error: Error page
 
 contact:

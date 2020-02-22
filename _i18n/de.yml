@@ -2,7 +2,7 @@ global:
   german: Deutsch
   english: Englisch
   title: NewWork Transformation
-  description: NEW WORK DESCRIPTION TODO
+  description: New Work ist für uns ein Wandel der Perspektive auf unser heutiges Arbeiten. Wir streben nach einem Miteinander zwischen Arbeit und privaten Leben das sich in jedem Moment erfüllend und lebenswert fühlt.
   cookie: Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis auf unserer Website zu ermöglichen.
   cookiebutton: Danke
   cookielink: mehr
@@ -14,7 +14,7 @@ pages:
   portfoliotitle: Unser Transformations Portfolio
   contacttitle: Kontakt zu Uns
   mindsettitle: Unsere Denkweise & Philosophie
-  imprint: Impressum
+  imprint: Impressum für NewWork Transformation
   error: Error page
 
 contact:

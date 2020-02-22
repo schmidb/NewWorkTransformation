@@ -46,3 +46,4 @@ https://search.google.com/search-console
 ## domain
 * registered via AWS
 * register at google via: https://www.google.com/webmasters/verification/home and add to hosted zone on aws
+* guidance to configure DNS for github: https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
