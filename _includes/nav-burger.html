@@ -1,0 +1,22 @@
+<div class="fixed-action-btn horizontal click-to-toggle">
+  <a class="btn-floating btn-large waves-effect waves-default">
+    <i class="material-icons">menu</i>
+  </a>
+  <ul>
+    <li><a class="btn-floating blue darken-2 waves-effect waves-default" href="#home"><i class="material-icons">arrow_upward</i></a></li>
+    <li><a class="btn-floating green darken-2 waves-effect waves-default" href="#portfolio"><i class="material-icons">code</i></a></li>
+    <li><a class="btn-floating yellow darken-3 waves-effect waves-default" href="#blog"><i class="material-icons">library_books</i></a></li>
+    <li><a class="btn-floating lime darken-1 waves-effect waves-default" href="#contact"><i class="material-icons">person</i></a></li>
+<!--  LANGUAGE SWITCHER -->
+    <li>
+      {% if site.lang == "de" %}
+        {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+        <a class="btn-floating center red darken-1 waves-effect waves-default" href="{{ link1 }}" >EN</a>
+      {% elsif site.lang == "en" %}
+        {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+        <a class="btn-floating center red darken-1 waves-effect waves-default" href="{{ link2 }}" >DE</a>
+      {% endif %}
+      <!-- <i class="material-icons">language</i> -->
+     </li>
+  </ul>
+</div>

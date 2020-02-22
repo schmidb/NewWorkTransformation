@@ -1,0 +1,35 @@
+---
+layout: default
+---
+  <div class="container">
+    <div class="col s10">
+    <div class="row" style="padding:10px;">
+      <a class="waves-effect waves-light btn white-text darken-2 grey z-depth-4" href="{{site.baseurl}}/#portfolio"><i class="material-icons">arrow_back</i></a>
+    </div>
+
+    <div id="index-banner" class="parallax-container" style="height:200px;">
+      <div class="section no-pad-bot">
+        <div class="container">
+          <br><br>
+          <h3 class="post-title center teal-text text-lighten-2" itemprop="name headline">{% t page.title %}</h3>
+        </div>
+      </div>
+      <div class="parallax" ><img src="{{ page.image | prepend: site.baseurl_root }}" alt="Unsplashed background img 1" ></div>
+    </div>
+
+<!--
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+      -->
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</div>
+</div>

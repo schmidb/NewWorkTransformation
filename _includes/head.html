@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link rel="stylesheet" type="text/css" href="{{ "/assets/css/materialize.css" | prepend: site.baseurl_root }}">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+      <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+
+      {% if page.layout contains "post" %}
+      <title>{% t site.title %} - {{page.title }}</title>
+      <meta property=“og:title“ content="{% t site.title %} - {{page.title}}" />
+      {% elsif page.layout contains "portfolio" %}
+      <title>{% t site.title %} - {% t page.title %}</title>
+      <meta property=“og:title“ content="{% t site.title %} - {% t page.title %}" />
+      {% else %}
+      <title>{% t site.title %}</title>
+      <meta property=“og:title“ content="{% t site.title %}" />
+      {% endif %}
+
+      {% if page.layout contains "post" %}
+      <meta name="description" content="{{ page.description | strip_html }}" />
+      <meta property=“og:description“ content="{{ page.description | strip_html }}" />
+      <meta property=“og:url“ content="{{ site.url }}{{ page.url }}" />
+      <meta property=“og:image“ content="https://familien-transformation.de/assets/images/butterflies-small.jpg" />
+      {% else %}
+      {% capture temp2 %}{% t page.description %}{% endcapture %}
+      <meta name="description" content="{{ temp2 | strip_html }}" />
+      <meta property=“og:description“ content="{{ temp2 | strip_html }}" />
+      <meta property=“og:url“ content="{{ site.url }}{{ page.url }}" />
+      <meta property=“og:image“ content="https://familien-transformation.de/assets/images/butterflies-small.jpg" />
+      {% endif %}
+      <meta name="author" content="{{ site.name }}" />
+
+      <!-- js for cookie message -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+      {% include google_analytics.html %}
+
+    </head>
+
+    <body>
+
+    <!-- script for cooke message -->
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+    window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#efefef",
+            "text": "#404040"
+          },
+          "button": {
+            "background": "#8ec760",
+            "text": "#ffffff"
+          }
+        },
+        "theme": "classic",
+        "position": "bottom-left",
+        "content": {
+            "message": "{% t global.cookie %}",
+            "dismiss": "{% t global.cookiebutton %}",
+            "link": "{% t global.cookielink %}"
+          }
+    });
+    </script>

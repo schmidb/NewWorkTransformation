@@ -1,0 +1,46 @@
+<div class="card medium">
+  <div class="card-image waves-effect waves-block waves-light">
+    <img class="activator" src="{{"/assets/images/contact4.png"| prepend: site.baseurl_root }}">
+  </div>
+  <div class="card-content" style="padding:3px;">
+  </style>
+    <span class="card-title activator" style="text-align:right;"><a class="btn-floating waves-effect waves-light red">
+      <i class="large material-icons">arrow_drop_up</i></a></span>
+    <div class="row" style="text-align:center; height:200px;">
+        {{site.name}}<br><br>
+        <i class="material-icons">contact_mail</i> {{site.email}}<br>
+        <!-- <i class="material-icons">contact_phone</i> {{site.phone}}<br>-->
+      <!--  <a class="waves-effect waves-light btn blue darken-1" target="_blank" href="https://www.linkedin.com/in/schmidberger/"><i class="material-icons right">contacts</i>Linkedin Markus</a>
+        <a class="waves-effect waves-light btn blue darken-1" target="_blank" href="https://www.linkedin.com/in/miriam-schmidberger-113a428/"><i class="material-icons right">contacts</i>LinkedIn Miriam</a>
+-->
+    </div>
+  </div>
+  <div class="card-reveal">
+    <span class="card-title grey-text text-darken-4">{% t contact.title %}<i size="large" class="material-icons right">close</i></span>
+    <form class="col s12" action="https://formspree.io/{{site.email}}" method="POST">
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">account_circle</i>
+          <input class="validate" id="icon_prefix" type="text" name="name">
+          <label for="icon_prefix">{% t contact.name %}</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">email</i>
+          <input class="validate" id="email" type="email" name="_replyto">
+          <label for="email" data-error="Please enter a valid Email Address" data-success="Verified!">{% t contact.email %}</label>
+        </div>
+      </div>
+      <div class="row">
+       <div class="input-field col s12">
+         <i class="material-icons prefix">message</i>
+         <textarea id="icon_prefix2" class="materialize-textarea" name="message"></textarea>
+         <label for="icon_prefix2">{% t contact.message %}</label>
+       </div>
+     </div>
+      <button class="btn waves-effect grey waves-dark darken-3 white-text z-depth-4" type="submit" name="action">{% t contact.send %}
+         <i class="material-icons right">send</i>
+       </button>
+    </form>
+
+  </div>
+</div>
