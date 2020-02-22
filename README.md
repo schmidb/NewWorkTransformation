@@ -45,3 +45,4 @@ https://search.google.com/search-console
 
 ## domain
 * registered via AWS
+* register at google via: https://www.google.com/webmasters/verification/home and add to hosted zone on aws
