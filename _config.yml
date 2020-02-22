@@ -1,0 +1,70 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# more docs at https://github.com/jameshamann/jekyll-material-theme
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: global.title
+name: Miriam & Markus Schmidberger
+email: trafo@posteo.net
+#phone: 0049 151 11143434
+description: global.description
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://newwork-transformation.de" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
+keep_files: [CNAME]
+
+
+#background
+parallax_image_one: /assets/images/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
+parallax_image_two: /assets/images/butterflies-small.jpg
+parallax_image_three: /assets/images/butterfly-small.jpg
+
+
+
+# Settings for the porfolio section
+portfolio_heading: pages.portfoliotitle
+portfolio_type: cards #cards or carousel
+project_button: pages.more
+
+cookies_banner: none # none or show - I use my own one
+#cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
+syntax_highlighting: true # include the css for syntax highlighting
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+google_analytics_tracking_id: UA-145089068-1
+
+# languages
+languages: ["de", "en"]
+exclude_from_localizations: ["assets", "CNAME", "archive"]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'archive', 'docs']
+defaultLang: de
+languageNames:
+  de: Deutsch
+  en: English
+
+# Build settings
+markdown: kramdown
+theme: jekyll-material-theme
+#remote_theme: jameshamann/jekyll-material-theme
+permalink: pretty # layout of URL for blog posts
+plugins:
+#  - jekyll-feed #rss feed
+  - jekyll-assets
+  - jekyll-minifier
+  - jekyll-multiple-languages
+  - jekyll-sitemap
+
+github: [metadata]

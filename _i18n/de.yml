@@ -1,0 +1,43 @@
+global:
+  german: Deutsch
+  english: Englisch
+  title: NewWork Transformation
+  description: NEW WORK DESCRIPTION TODO
+  cookie: Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis auf unserer Website zu ermöglichen.
+  cookiebutton: Danke
+  cookielink: mehr
+
+pages:
+  home: Zuhause
+  work: Arbeit
+  more: mehr
+  portfoliotitle: Unser Transformations Portfolio
+  contacttitle: Kontakt zu Uns
+  mindsettitle: Unsere Denkweise & Philosophie
+  imprint: Impressum
+  error: Error page
+
+contact:
+  title: Kontakt Formular
+  name: Name
+  email: E-Mail
+  message: Nachricht
+  send: senden
+
+footer:
+  copy: Copyright 2020,
+  imprint: Impressum
+  allrights: Alle Rechte vorbehalten
+
+portfolio:
+  project_one: Familien-Träume Seminar
+  project_one_underline: 20. - 27. September 2020 im Familotel Ebbinghof
+  project_one_description: Spreche deine Träume aus und lebe sie. <br><br>Im idyllischen Familotel Ebbinghof erwartet dich ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
+  project_one_url: familientraeume/
+  project_one_image: assets/images/traeume-mini.jpg
+
+  project_two: Familien-Leichtigkeit Seminar
+  project_two_underline: 28. Juni - 5. Juli 2020 im Familotel Ebbinghof
+  project_two_description: So hast du noch nie entspannt und gelernt zugleich. <br><br>Im idyllischen Familotel Ebbinghof erwartet dich ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
+  project_two_url: familiencoolness/
+  project_two_image: assets/images/frogs-mini.jpg

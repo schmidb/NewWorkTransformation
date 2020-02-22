@@ -1,0 +1,73 @@
+global:
+  german: German
+  english: English
+  title: NewWork Transformation
+  description: Dare to go from 'inside to outside'. <br> We will share our way with you, accompany you if you like to your family dreams and show you ways how relaxation can arrive with you and your family.
+  cookie: This website uses cookies to ensure you get the best experience on our website.
+  cookiebutton:  Got it
+  cookielink: More
+
+pages:
+  home: Home
+  work: Work
+  more: more
+  portfoliotitle: Our Transformation Portfolio
+  contacttitle: Contact Us
+  mindsettitle: Our Mindset & Philosophy
+  imprint: Imprint
+  error: Error page
+
+contact:
+  title: Contact Form
+  name: name
+  email: email
+  message: message
+  send: send
+
+footer:
+  copy: 2020 Copyright
+  imprint: Imprint
+  allrights: All rights reserved
+
+portfolio:
+  project_one: Family Dreams Seminar
+  project_one_underline: September 20-27, 2020 at the Familotel Ebbinghof
+  project_one_description: Speak up your dreams and live them. <br><br> In the idyllic Familotel Ebbinghof you can expect a seminar that will help you as a family to find your family dreams and start the way to move there.
+  project_one_url: familientraeume/
+  project_one_image: assets/images/traeume-mini.jpg
+
+  project_two: Family Easiness Seminar
+  project_two_underline: June 28 - July 5, 2020 at the Familotel Ebbinghof
+  project_two_description: You have never relaxed and learned at the same time. <br><br> At the idyllic Familotel Ebbinghof you can expect a seminar to help you with your family life with children (0-10 years) easier and more comfortable to live.
+  project_two_url: familiencoolness/
+  project_two_image: assets/images/frogs-mini.jpg
+
+  project_three: Family Yoga Vacation
+  project_three_underline: June 21-28, 2020 and September 13-20, 2020 at the Familotel Ebbinghof
+  project_three_description: Yoga moves your body and soul. <br><br> At the idyllic Familotel Ebbinghof you can expect a family-friendly yoga vacation for you and your family.
+  project_three_url: yogaTransformation/
+  project_three_image: assets/images/young-woman-mini.jpg
+
+  project_four: Offerings in 2020
+  project_four_underline: Overview about all our offerings in 2020
+  project_four_description: Here you can find a list of all our offerings in 2020.
+  project_four_url: angebote2020/
+  project_four_image: assets/images/lago-federa.jpg
+
+  project_five: Personal Family Coaching
+  project_five_underline: Appointment and coaching on request
+  project_five_description: Vacation time is the ideal time to grow in the family. <br> <br> We offer to accompany you as a family on your family vacation and with small suggestions, coaching or just watching from us you get closer to your family dreams and family coolness.
+  project_five_url: personalfamilycoach/
+  project_five_image: assets/images/family_kneul.jpg
+
+  project_six: Girlfriends-body-and-soul wellness weekend
+  project_six_underline: Offer bookable from summer 2021
+  project_six_description: Sometimes I wish for more than just reunion, wellness and vacation with my friends. A mixture of reunion, time for ratcheting, time for me, time for relaxation and body wellness and new impulses for my life, in order to give myself a completely refreshed and energized return to my everyday life.
+  project_six_url: girlfriends_weekend/
+  project_six_image: assets/images/girlfriends.jpg
+
+  project_seven: Your Journey to New Work
+  project_seven_underline: Appointment and coaching on request
+  project_seven_description: New Work is not a method but a company & lifestyle attitude. <br><br>At our seminars and coaching sessions, we show you how to achieve fulfilling and efficient work. We strive for a coexistence between work and private life.
+  project_seven_url: newWork/
+  project_seven_image: assets/images/grandmother-mini.jpg
