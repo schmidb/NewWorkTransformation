@@ -30,14 +30,20 @@ footer:
   allrights: Alle Rechte vorbehalten
 
 portfolio:
-  project_one: Familien-Träume Seminar
-  project_one_underline: 20. - 27. September 2020 im Familotel Ebbinghof
+  project_one: NewWork Workshops für Firmen
+  project_one_underline: Termine und Coaching auf Anfrage
   project_one_description: Spreche deine Träume aus und lebe sie. <br><br>Im idyllischen Familotel Ebbinghof erwartet dich ein Seminar, das euch als Familie hilft, eure Familienträume zu finden und den Weg dorthin zu starten.
-  project_one_url: familientraeume/
-  project_one_image: assets/images/traeume-mini.jpg
+  project_one_url: newworkcompany/
+  project_one_image: assets/images/bulletin-board-3233653_640.jpg
 
-  project_two: Familien-Leichtigkeit Seminar
-  project_two_underline: 28. Juni - 5. Juli 2020 im Familotel Ebbinghof
+  project_two: NewWork Workshops für Dich als Privatperson
+  project_two_underline: Termin und Coaching auf Anfrage
   project_two_description: So hast du noch nie entspannt und gelernt zugleich. <br><br>Im idyllischen Familotel Ebbinghof erwartet dich ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
-  project_two_url: familiencoolness/
-  project_two_image: assets/images/frogs-mini.jpg
+  project_two_url: newworkprivate/
+  project_two_image: assets/images/grandmother-mini.jpg
+
+  project_three: Familien Transformation
+  project_three_underline: http://familien-transformation.de
+  project_three_description: Wage dich auf den Weg von 'Innen nach Aussen'. Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in deiner Familie ankommen kann.
+  project_three_url: familientransformation/
+  project_three_image: assets/images/butterfly-small.jpg
