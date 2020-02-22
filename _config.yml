@@ -28,9 +28,9 @@ keep_files: [CNAME]
 
 
 #background
-parallax_image_one: /assets/images/caterpillar-2-small_cut.jpg # These are the images used for the parallax background
-parallax_image_two: /assets/images/butterflies-small.jpg
-parallax_image_three: /assets/images/butterfly-small.jpg
+parallax_image_one: /assets/images/web-4667382_640.jpg # These are the images used for the parallax background
+parallax_image_two: /assets/images/transformation-4707719_640.jpg
+parallax_image_three: /assets/images/web-4687386_640.jpg
 
 
 
