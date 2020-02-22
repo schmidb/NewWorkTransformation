@@ -43,7 +43,7 @@ portfolio:
   project_two_image: assets/images/grandmother-mini.jpg
 
   project_three: Familien Transformation
-  project_three_underline: http://familien-transformation.de
-  project_three_description: Wage dich auf den Weg von 'Innen nach Aussen'. Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in deiner Familie ankommen kann.
+  project_three_underline: <a href="https://familien-transformation.de" target="blank">https://familien-transformation.de</a>
+  project_three_description: Wage dich auf den Weg von 'Innen nach Aussen'. <br>Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in deiner Familie ankommen kann.
   project_three_url: familientransformation/
   project_three_image: assets/images/butterfly-small.jpg
