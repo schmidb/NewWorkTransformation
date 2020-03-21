@@ -47,3 +47,9 @@ portfolio:
   project_three_description: Wage dich auf den Weg von 'Innen nach Aussen'. <br>Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in deiner Familie ankommen kann.
   project_three_url: familientransformation/
   project_three_image: assets/images/butterfly-small.jpg
+
+  project_four: Leben und Arbeiten mit Kindern
+  project_four_underline: Unser Weg um Homeoffice mit Kindern zu gestalten. Coaching auf Anfrage.
+  project_four_description: Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
+  project_four_url: homeoffice/
+  project_four_image: assets/images/laptop-blaetter.jpg
