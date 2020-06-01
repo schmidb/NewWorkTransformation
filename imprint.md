@@ -5,4 +5,4 @@ description: pages.imprint
 image: /assets/images/transformation-4707710_640.jpg
 permalink: /imprint/
 ---
-{% translate_file imprint.md %}
+{% tf imprint.md %}

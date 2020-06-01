@@ -5,4 +5,4 @@ description: portfolio.project_three_description
 image: /assets/images/butterfly-small.jpg
 permalink: /familientransformation/
 ---
-{% translate_file familientransformation.md %}
+{% tf familientransformation.md %}
