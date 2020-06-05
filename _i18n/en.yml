@@ -17,6 +17,11 @@ pages:
   imprint: Imprint for NewWork Transformation
   error: Error page
 
+nav:
+  portfolio: Portfolio
+  blog: Mindset
+  contact: Contact
+
 contact:
   title: Contact Form
   name: name

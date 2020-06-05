@@ -17,6 +17,11 @@ pages:
   imprint: Impressum für NewWork Transformation
   error: Error page
 
+nav:
+  portfolio: Portfolio
+  blog: Denkweise
+  contact: Kontakt
+
 contact:
   title: Kontakt Formular
   name: Name
