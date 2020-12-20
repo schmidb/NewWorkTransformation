@@ -1,3 +1,12 @@
+---
+layout: post
+title:  Leben und Arbeiten mit Kindern
+date:  2020-06-01
+image: /assets/images/laptop-blaetter.jpg
+show: true
+description: Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
+---
+
 Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten. Das Wichtigste ist die eigene innere Haltung: KINDER VOR ARBEIT. Das heißt Beides ist wichtig, aber die Kinder sind wichtiger.
 
 Für uns ist Home-Office das Arbeiten von zu Hause aus. In Deutschland findet u.a. auch der Begriff Telearbeit oder Heimarbeit Anwendung. Diese Art des Arbeiten ist natürlich nur für bestimmte Arbeitstätigkeiten möglich und vorallem in der IT-Branche verbreitet.

@@ -1,1 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/en/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-20T21:55:38+01:00</updated><id>http://localhost:4000/en/feed.xml</id><title type="html">global.title</title><subtitle>global.description</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/en/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/en/" rel="alternate" type="text/html" hreflang="en" /><updated>2020-12-20T22:43:42+01:00</updated><id>http://localhost:4000/en/feed.xml</id><title type="html">global.title</title><subtitle>global.description</subtitle><entry><title type="html">Our definition of NewWork</title><link href="http://localhost:4000/en/2020/06/01/NewWorkDefinition/" rel="alternate" type="text/html" title="Our definition of NewWork" /><published>2020-06-01T00:00:00+02:00</published><updated>2020-06-01T00:00:00+02:00</updated><id>http://localhost:4000/en/2020/06/01/NewWorkDefinition</id><content type="html" xml:base="http://localhost:4000/en/2020/06/01/NewWorkDefinition/">&lt;p&gt;For us, New Work stands for a corporate culture that offers its employees an environment in which they are motivated to give their best performance based on their skills and largely independently.&lt;/p&gt;
+
+&lt;p&gt;For the company this has many important advantages for the future:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; efficiently working employees &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; reduced employee turnover &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; more flexible and therefore shorter reaction times to changes in the market thanks to the high level of personal responsibility of the employees &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; fewer sick days for employees &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">For us, New Work stands for a corporate culture that offers its employees an environment in which they are motivated to give their best performance based on their skills and largely independently.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/en/assets/images/book-kindle.jpg" /><media:content medium="image" url="http://localhost:4000/en/assets/images/book-kindle.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Living and working with children</title><link href="http://localhost:4000/en/2020/06/01/HomeOffice/" rel="alternate" type="text/html" title="Living and working with children" /><published>2020-06-01T00:00:00+02:00</published><updated>2020-06-01T00:00:00+02:00</updated><id>http://localhost:4000/en/2020/06/01/HomeOffice</id><content type="html" xml:base="http://localhost:4000/en/2020/06/01/HomeOffice/">&lt;p&gt;Working from home with children is a completely different situation than working alone at home or in the office with adult colleagues. The most important thing is your own inner attitude: CHILDREN BEFORE WORK. That means both are important, but the children are more important.&lt;/p&gt;
+
+&lt;p&gt;For us, home office is working from home. In Germany, among others also the term telework or home work application. This type of work is of course only possible for certain work activities and is especially common in the IT industry.&lt;/p&gt;
+
+&lt;h4 id=&quot;as-a-general-rule&quot;&gt;As a general rule&lt;/h4&gt;
+&lt;p&gt;Possibly the statement “children before work” already triggers resistance (“Stop - but we can’t finance our life without my work.” Or similar), despair (“How can I do that, I’ll never do my job.” or similar) or a feeling of impossibility.
+Then take a cup of tea or a glass of water and time to listen to the thoughts, maybe write them down, and at the same time observe your feelings. Take yourself seriously and at the same time make yourself aware that you are and can do more. Focus on your breath and remember all the challenges that you have already mastered.
+That’s exactly what it is here: a challenge with a great opportunity to strengthen the bond between you and your children.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/kindervorarbeit.jpg&quot; alt=&quot;Kinder vor Arbeit&quot; class=&quot;materialboxed&quot; width=&quot;250&quot; style=&quot;float:left;margin-right:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A first practical trick is to make the information that seems important to you or something that you want to try new clearly visible at the workplace. For example, stick a piece of paper with “KINDER BEFORE WORK” in the center of the field of vision.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Age and individual skills&lt;/strong&gt; &lt;br /&gt;
+For everything else, the age and individual abilities of the children must be taken into account. We roughly divide into children under 6 and children from 6.
+The processes described are long-term measures that initially seem to require a lot of time, energy and attention, but in our experience pay off in that they both strengthen the family bond and actually create space for stress-free work from home with the children present.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Short term solution vs. long-term change&lt;/strong&gt; &lt;br /&gt;
+Are you only concerned with a few exceptions, such as Only 2 or 3 days, and you have no long-term interest in working from home (or simply time for your own projects with children at home), then you can also use tricks like watching your favorite film, listening to radio plays, organizing babysitting, at bedtime work, occupy with special food or help out.&lt;/p&gt;
+
+&lt;p&gt;And another note for readers from the software development or IT industry: Our approach “children before work” is in the same sense as the &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;Agile Manifesto&lt;/a&gt; says “Individuals and interaction over processes and tools”.&lt;/p&gt;
+
+&lt;h4 id=&quot;home-office-with-children-under-6-years&quot;&gt;Home office with children under 6 years&lt;/h4&gt;
+&lt;p&gt;“Home office with children under 6 years” describes our approach to how it is possible to give priority to children’s needs and still be able to work. This includes two parts: On the one hand, attentively observing the child’s needs and creating a permanent, stress-free and relaxed attitude.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why do I need a stress-free and relaxed attitude&lt;/strong&gt; &lt;br /&gt;
+Stress always transfers to my surroundings. Especially on our children, as they are dependent on us. Our stress puts the children under pressure, which each child deals with individually. Examples of child behavior under pressure are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; Resistance: nothing is right anymore and there is no more willingness to cooperate &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; Accidents: the full glass tips over, the child pees, hurts, ... &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; Fear or insecurity: suddenly the child can no longer dress, eat, go to the toilet, ... &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; Call for attention with &quot;is the picture beautiful?&quot;, &quot;is the putty so right?&quot;, &quot;the putty figure will not succeed&quot;, ... &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; Ailments: the stomach hurts, diarrhea, earache,, ... &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If I am relaxed as a parent, then my child can relax too. But it doesn’t have to be. Children can also have their own stress.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I know if I am already stressed?&lt;/strong&gt; &lt;br /&gt;
+&lt;img src=&quot;/assets/images/stressbaro.jpg&quot; alt=&quot;Stressbarometer&quot; class=&quot;materialboxed&quot; style=&quot;float:right;margin-left: 10px;&quot; /&gt;
+At the &lt;a href=&quot;http://www.transparents.net&quot;&gt;TransParents Workshops&lt;/a&gt; - which I attended Markus - a stress barometer is suggested to visualize your stress level on a scale of 0-10: 0 means relaxed, 10 maximum stress. At first, using the barometer takes a lot of practice. We have found that having a regular reminder and ritual is helpful. e.g. Close your eyes every 30 minutes, just observe your breath for 5 breaths and then determine your stress level. Today the stress barometer hangs on a whiteboard in the kitchen and it catches my eye with every meal and I, Markus, determine my current stress level.&lt;/p&gt;
+
+&lt;p&gt;We have also observed that in the beginning our own assessment of stress was often lower than it actually was. How do I know that I am fooling myself? The easiest way is through external feedback. In this case, through the behavior of my children. If they already show behaviors that I have observed in them in tense situations, I can be sure that my stress level is 2-3 levels higher.&lt;/p&gt;
+
+&lt;p&gt;The recommendation at TransParents is &lt;strong&gt;to stop everything at 8 or higher&lt;/strong&gt;, to sit on the floor and to devote yourself fully to getting out of stress. In this case, communicating your stress level to the children is very helpful. The children then understand why an action is being canceled and the children sitting down on the floor and next to the parent is immediately relaxing for the children as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is the purpose of mindful observation of the child’s needs&lt;/strong&gt; &lt;br /&gt;
+In addition to your own stress-free and relaxed attitude, careful observation of the child’s needs is a very important point. If my child feels comfortable and safe, he can relax and pursue his own interests and I have space to e.g. Work.&lt;/p&gt;
+
+&lt;p&gt;I.e. Throughout the day I observe when and in which situations my child shows through their behavior that they need something. I can e.g. find that right after breakfast my child is very relaxed and starts playing by himself. There is then free space that I use directly to work. Then I notice (very different depending on age and type) that my child starts to come into contact with me after 30 minutes. An example of this is e.g. that it has to go to the toilet and doesn’t want to go alone or want my opinion on many parts of my game. In that case, I stop my work and devote myself to my child. Maybe we can playfully clean up breakfast with priority on the shared time aspect. Then I know from past experience that e.g. Reading aloud now feels good and read a book aloud. This creates an independent game for the child and I can get back to my work.&lt;/p&gt;
+
+&lt;p&gt;Depending on how starved my child is for my attention, it can take some time before it feels that my basic attitude is “child before work” and that I see and pay attention to it. If you pay attention to the process, take care of things and then work, you can develop a very cozy atmosphere in the home office of togetherness with children. This is neither a simple nor a short-term process and in the beginning it will often not work or breakfast will stay at the table all day.&lt;/p&gt;
+
+&lt;h4 id=&quot;home-office-with-children-over-6-years&quot;&gt;Home office with children over 6 years&lt;/h4&gt;
+&lt;p&gt;(we are currently working on that)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; &lt;br /&gt;
+We offer various types of support and coaching for “children before work”. You can find our seminars at &lt;a href=&quot;https://familien-transformation.de&quot;&gt;http://familien-transformation.de&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;waves-effect waves-light btn-large&quot; href=&quot;mailto: towardssburgsite.email Genealogie&quot; target=&quot;blank&quot;&gt; If you are interested, please contact us &lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Working from home with children is a completely different situation than working alone at home or in the office with adult colleagues. The most important thing is your own inner attitude: CHILDREN BEFORE WORK. That means both are important, but the children are more important.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/en/assets/images/laptop-blaetter.jpg" /><media:content medium="image" url="http://localhost:4000/en/assets/images/laptop-blaetter.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">This is Us - Miriam &amp;amp; Markus Schmidberger</title><link href="http://localhost:4000/en/2019/12/01/ThisIsUs/" rel="alternate" type="text/html" title="This is Us - Miriam &amp; Markus Schmidberger" /><published>2019-12-01T00:00:00+01:00</published><updated>2019-12-01T00:00:00+01:00</updated><id>http://localhost:4000/en/2019/12/01/ThisIsUs</id><content type="html" xml:base="http://localhost:4000/en/2019/12/01/ThisIsUs/">&lt;p&gt;We share our path and ours openly and honestly
+Transformation processes from children to adults to parents and authentic
+People with new ways of working.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/miri_markus.jpg&quot; alt=&quot;Miriam&amp;amp;Markus&quot; class=&quot;materialboxed&quot; width=&quot;250&quot; style=&quot;float:right;margin-left:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal is an open, honest and authentic relationship with each other as a couple and with our children. That doesn’t work every day. We make mistakes and want to learn from them again. An honest and constructive relationship with each other as a couple and with our children helps us.&lt;/p&gt;
+
+&lt;h2 id=&quot;miriam&quot;&gt;Miriam&lt;/h2&gt;
+&lt;p&gt;I grew up as the eldest child in a large Bavarian family of six and went through the classic educational path through high school, studying computer science and started and unfinished doctorates.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/miri-yoga-2.jpg&quot; alt=&quot;Miriam&quot; class=&quot;materialboxed&quot; width=&quot;250&quot; style=&quot;float:left;margin-right:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My driving force is the vision of a “family as a cooperative community” in which everyone lives together voluntarily and it is pleasant for everyone. In addition, there is the dream that, as the mother of several children, I will have my own life (e.g. my own job, my own trips, …) and that part of me will also have space.&lt;/p&gt;
+
+&lt;p&gt;This is where I see my greatest challenge, as this does not correspond to classic parenting. Together with Markus, I also had to find out that this doesn’t work in a classic employee relationship and so I stopped working in 2014.&lt;/p&gt;
+
+&lt;p&gt;Until then, I also pursued my great professional interest in “How do people work” and researched it. My specialty was the collaboration between teams and management in software development. The decisive factor here is not the perfect method, but the human interaction and how people treat one another. A software team e.g. requires a scrummaster or, as in the classic family, a “mom” who recognizes, feels and stabilizes interpersonal relationships. Without someone with the right emphatic skills, the team doesn’t work.&lt;/p&gt;
+
+&lt;p&gt;I discovered the same thing for my own life. There is not one method that is right for every family. Each method has its own contribution to our life. New methods inspire me and give me new impulses for my own life.&lt;/p&gt;
+
+&lt;p&gt;A large family together as a community of cooperation and space for every family member is my vision. Me and my family are still learning and getting there.&lt;/p&gt;
+
+&lt;h2 id=&quot;markus&quot;&gt;Markus&lt;/h2&gt;
+&lt;p&gt;I grew up as an only child in a small Bavarian family and successfully mastered the classic educational path through high school, mathematics studies and a doctorate. From a professional perspective, I now manage a large software development department with over 40 employees at one of the leading German online platforms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/markus_2016.jpg&quot; alt=&quot;Markus&quot; class=&quot;materialboxed&quot; width=&quot;250&quot; style=&quot;float:right;margin-left:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I met Miriam in 2002 and quickly realized that Miriam was giving me something that I hadn’t known before. With our wedding in March 2007, a long process of learning and exploring myself began:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; I was allowed to learn to argue - something I didn't know before &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; I learned to perceive anger and aggression and to deal with it &lt;/li&gt;
+  &lt;li style=&quot;list-style-type: disc;&quot;&gt; And I got to know many new feelings or let them roll over me. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2009 we had our first son Benjamin and in 2011 our second son Noah. That brought us from being a couple to being a parent very quickly. In addition to my constant knowledge of myself, this has presented me with new challenges and thrown me off track a few times. Switching from full-time to part-time (80%) gave me the space I needed to continue learning myself. I still work part-time to this day and still have a career.&lt;/p&gt;
+
+&lt;p&gt;The connection to Miriam and the feeling that she gives me something special has never been lost. Motivated by this positive enrichment in my life, I left the path of classical therapy in 2014 and explored a lot of new things through alternative therapies and seminars:&lt;/p&gt;
+
+&lt;p&gt;Family constellations, radical permission seminars, radical honesty seminars, nonviolent communication seminars, self-compassion workshops, heart work, … have helped me to be more conscious and authentic in life and to take responsibility for myself and my family.&lt;/p&gt;
+
+&lt;p&gt;Even today I am still looking for “the right” path in life. I see my strength in always trying out and going new ways. The focus is on the search for “the perfect” way out of a relationship with myself, with my wife Miriam, my children and my work.&lt;/p&gt;
+
+&lt;p&gt;I have taken many stumbling blocks with me over the past 15 years. Today and in the future I would like to share my experiences with interested people and open our eyes to the many possibilities that we can pursue towards a better family life.&lt;/p&gt;</content><author><name></name></author><summary type="html">We share our path and ours openly and honestly Transformation processes from children to adults to parents and authentic People with new ways of working.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/en/assets/images/family.jpg" /><media:content medium="image" url="http://localhost:4000/en/assets/images/family.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

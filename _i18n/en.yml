@@ -35,23 +35,23 @@ footer:
   allrights: All rights reserved
 
 portfolio:
-  project_one: Family Dreams Seminar
-  project_one_underline: September 20-27, 2020 at the Familotel Ebbinghof
-  project_one_description: Speak up your dreams and live them. <br><br> In the idyllic Familotel Ebbinghof you can expect a seminar that will help you as a family to find your family dreams and start the way to move there.
-  project_one_url: familientraeume/
-  project_one_image: assets/images/traeume-mini.jpg
+  project_one: NewWork workshops for companies
+  project_one_underline: Dates and coaching on request - starting in 2021 new 'remote culture workshops'
+  project_one_description: In order to lead your company successfully into the future, a cultural change in the direction of “New Work” is a promising path. <br> We offer a number of workshops that are tailored to your specific requirements.
+  project_one_url: newworkcompany/
+  project_one_image: assets/images/bulletin-board-3233653_640.jpg
 
-  project_two: Family Easiness Seminar
-  project_two_underline: June 28 - July 5, 2020 at the Familotel Ebbinghof
-  project_two_description: You have never relaxed and learned at the same time. <br><br> At the idyllic Familotel Ebbinghof you can expect a seminar to help you with your family life with children (0-10 years) easier and more comfortable to live.
-  project_two_url: familiencoolness/
-  project_two_image: assets/images/frogs-mini.jpg
+  project_two: NewWork Workshops for you as a private person
+  project_two_underline: Appointments and coaching on request - starting in 2021 new 'remote culture workshops'
+  project_two_description: You have never relaxed and learned like this at the same time. <br> <br> A seminar awaits you at the idyllic Familotel Ebbinghof that will help you to live your family life with children (0-10 years) more easily and more comfortably.
+  project_two_url: newworkprivate/
+  project_two_image: assets/images/grandmother-mini.jpg
 
-  project_three: Family Yoga Vacation
-  project_three_underline: June 21-28, 2020 and September 13-20, 2020 at the Familotel Ebbinghof
-  project_three_description: Yoga moves your body and soul. <br><br> At the idyllic Familotel Ebbinghof you can expect a family-friendly yoga vacation for you and your family.
-  project_three_url: yogaTransformation/
-  project_three_image: assets/images/young-woman-mini.jpg
+  project_three: Family Transformation
+  project_three_underline: We accompany you to your family dreams <a href="https://familien-transformation.de" target="blank"> https://familien-transformation.de </a>
+  project_three_description: Dare to go from 'inside to outside'. <br> We will share our way with you, accompany you if you like to your family dreams and show you possible ways in which relaxation can reach you and your family.
+  project_three_url: familytransformation/
+  project_three_image: assets/images/butterfly-small.jpg
 
-  project_remote: Remote-Kultur Workshops
+  project_remote: Remote-Culture Workshops
   project_remote_description: blbalba

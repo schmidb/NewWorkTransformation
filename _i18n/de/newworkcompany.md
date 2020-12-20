@@ -22,3 +22,9 @@ Dazu gehört es verschiedene Arbeitsmodelle anzubieten, selbstverantwortliches A
 Wir bieten dazu eine Reihe von Workshops an, die im Detail auf Ihre spezifischen Anforderungen angepasst werden und empfehlen, ein bis zwei Wochenworkshops im Jahr zur Begleitung ihres Kulturwandels. Gerne bilden wir Ihnen auch Ihre firmeninternen Kulturbegleiter aus, so dass sie unabhängig von uns, ihren eigenen Kulturwandel langfristig gestalten können.
 
 <a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt uns gerne</a>
+
+
+#### Remote-Kultur Workshops
+
+
+Das Jahr 2020 war durch die Corona-Pandemie prägend für die Arbeitskultur. Auch im Jahr 2021 werden die Regeln der Regierung zu einer Ausweitung der Heimarbeit oder Remote Arbeit führen. Dies bringt für Firmen, Individueen und Familien viele neue Herausforderungen. Basierend auf unserer 10 jährigen Erfahrung haben wir eine Reihe von Angeboten entwickelt um Firmen, Individuen bei der Arbeit zu Hause zu helfen. Mehr findest du auf unserer [Remote-Kultur Workshops](/remotework/) Seite.
