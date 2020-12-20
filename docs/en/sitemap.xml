@@ -15,4 +15,7 @@
 <url>
 <loc>http://localhost:4000/en/newworkcompany/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/en/remotework/</loc>
+</url>
 </urlset>

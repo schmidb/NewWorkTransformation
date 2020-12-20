@@ -36,19 +36,19 @@ footer:
 
 portfolio:
   project_one: NewWork Workshops für Firmen
-  project_one_underline: Termine und Coaching auf Anfrage
+  project_one_underline: Termine und Coaching auf Anfrage - ab Anfang 2021 neue 'Remote-Kultur Workshops'
   project_one_description: Um Ihre Firma erfolgreich in die Zukunft zu führen, ist ein Kulturwandel in Richtung “New Work” ein erfolgversprechender Weg. <br> Wir bieten dazu eine Reihe von Workshops an, die im Detail auf Ihre spezifischen Anforderungen angepasst werden.
   project_one_url: newworkcompany/
   project_one_image: assets/images/bulletin-board-3233653_640.jpg
 
   project_two: NewWork Workshops für Dich als Privatperson
-  project_two_underline: Termin und Coaching auf Anfrage
+  project_two_underline: Termin und Coaching auf Anfrage - ab Anfang 2021 neue 'Remote-Kultur Workshops'
   project_two_description: So hast du noch nie entspannt und gelernt zugleich. <br><br>Im idyllischen Familotel Ebbinghof erwartet dich ein Seminar, das dir hilft, euer Familienleben mit Kindern (0-10 Jahre) leichter und angenehmer zu leben.
   project_two_url: newworkprivate/
   project_two_image: assets/images/grandmother-mini.jpg
 
   project_three: Familien Transformation
-  project_three_underline: <a href="https://familien-transformation.de" target="blank">https://familien-transformation.de</a>
+  project_three_underline: Wir begleiten dich zu deinen Familienträumen <a href="https://familien-transformation.de" target="blank">https://familien-transformation.de</a>
   project_three_description: Wage dich auf den Weg von 'Innen nach Aussen'. <br>Wir teilen mit dir unseren Weg, begleiten dich wenn du magst zu deinen Familienträumen und zeigen dir mögliche Wege, wie Entspannung bei dir und in deiner Familie ankommen kann.
   project_three_url: familientransformation/
   project_three_image: assets/images/butterfly-small.jpg
@@ -58,3 +58,6 @@ portfolio:
   project_four_description: Homeoffice mit Kindern ist eine ganz andere Situation als alleine zu Hause oder im Büro mit erwachsenen Kollegen zu arbeiten.
   project_four_url: homeoffice/
   project_four_image: assets/images/laptop-blaetter.jpg
+
+  project_remote: Remote-Kultur Workshops
+  project_remote_description: blbalba
