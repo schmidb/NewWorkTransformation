@@ -2,7 +2,7 @@
 layout: portfolio
 title: portfolio.project_one
 description: portfolio.project_one_description
-image: /assets/images/bulletin-board-3233653_640.jpg
+image: /assets/images/header/bulletin-board.jpg
 permalink: /newworkcompany/
 ---
 {% tf newworkcompany.md %}

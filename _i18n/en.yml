@@ -39,19 +39,19 @@ portfolio:
   project_one_underline: Dates and coaching on request - starting in 2021 new 'remote culture workshops'
   project_one_description: In order to lead your company successfully into the future, a cultural change in the direction of “New Work” is a promising path. <br> We offer a number of workshops that are tailored to your specific requirements.
   project_one_url: newworkcompany/
-  project_one_image: assets/images/bulletin-board-3233653_640.jpg
+  project_one_image: assets/images/header/bulletin-board.jpg
 
   project_two: NewWork Workshops for you as a private person
   project_two_underline: Appointments and coaching on request - starting in 2021 new 'remote culture workshops'
   project_two_description: You have never relaxed and learned like this at the same time. <br> <br> A seminar awaits you at the idyllic Familotel Ebbinghof that will help you to live your family life with children (0-10 years) more easily and more comfortably.
   project_two_url: newworkprivate/
-  project_two_image: assets/images/grandmother-mini.jpg
+  project_two_image: assets/images/header/grandmother-mini.jpg
 
   project_three: Family Transformation
   project_three_underline: We accompany you to your family dreams <a href="https://familien-transformation.de" target="blank"> https://familien-transformation.de </a>
   project_three_description: Dare to go from 'inside to outside'. <br> We will share our way with you, accompany you if you like to your family dreams and show you possible ways in which relaxation can reach you and your family.
   project_three_url: familytransformation/
-  project_three_image: assets/images/butterfly-small.jpg
+  project_three_image: assets/images/header/butterfly.jpg
 
   project_remote: Remote-Culture Workshops
   project_remote_description: blbalba

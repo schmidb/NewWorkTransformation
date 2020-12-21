@@ -2,7 +2,7 @@
 layout: post
 title:  Our definition of NewWork
 date:  2020-06-01
-image: /assets/images/book-kindle.jpg
+image: /assets/images/header/book-kindle.jpg
 show: true
 description: For us, New Work stands for a corporate culture that offers its employees an environment in which they are motivated to give their best performance based on their skills and largely independently.
 ---

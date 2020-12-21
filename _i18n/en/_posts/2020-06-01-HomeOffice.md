@@ -2,7 +2,7 @@
 layout: post
 title: Living and working with children
 date:  2020-06-01
-image: /assets/images/laptop-blaetter.jpg
+image: /assets/images/header/laptop-blaetter.jpg
 show: true
 description: Working from home with children is a completely different situation than working alone at home or in the office with adult colleagues.
 ---
