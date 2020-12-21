@@ -11,7 +11,11 @@ layout: default
       <div class="section no-pad-bot">
         <div class="container">
           <br><br>
+          {% if page.headercolor %}
+          <h3 class="post-title center black-text text-lighten-2" itemprop="name headline">{{ page.title | escape }}</h3>
+          {% else %}
           <h3 class="post-title center white-text text-lighten-2" itemprop="name headline">{{ page.title | escape }}</h3>
+          {% endif %}
         </div>
       </div>
       <div class="parallax" ><img src="{{page.image}}" alt="Unsplashed background img 1" ></div>
@@ -29,6 +33,7 @@ layout: default
       -->
 
   <div class="post-content" itemprop="articleBody">
+    <br>
     {{ content }}
   </div>
 </div>
