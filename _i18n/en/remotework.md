@@ -6,43 +6,115 @@ family with homeschooler children. Since two years both of us are working partly
 home (Markus still worked in an office when it was possible) with children at home and
 gathered a lot of experience with exactly those challenges which we all face now due to the new Corona regulations.
 
-Starting early 2021 we offer our knowledge in form of 3 different options:
+Starting early 2021 we offer our knowledge in form of three different offerings:
 
 
 
 ## Workshops for Companies
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title">Module 1: Strategy Alignment</span>
+        <p>
+        Strategy aligment with the management
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
-#### Module 1: Strategy Alignment
-Strategy aligment with the management
+<div class="row">
+  <div class="col s12 m6">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title">Module 2a: Educate your Employees</span>
+        <p>
+        Work with the invidual employees
+        -> check-in after one month: challanges and find individual solution which fits to the culture of the company
 
-#### Module 2a: Educate your Employees
-Work with the invidual employees
--> check-in after one month: challanges and find individual solution which fits to the culture of the company
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m6">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title">Module 2b: Train your Trainers</span>
+        <p>
+        Train the trainer
+        Train a group of employees to enable all employes to incorporate the remote strategy into the complete company by themselves.
+        * 14 days begleitung gespräch - be-weekly
+        * after 3 months education / fortbildung for trainers
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
-#### Module 2b: Train your Trainers
-Train the trainer
-Train a group of employees to enable all employes to incorporate the remote strategy into the complete company by themselves.
-* 14 days begleitung gespräch - be-weekly
-* after 3 months education / fortbildung for trainers
-
-<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt uns eine Email für euer individuelles Angebot.</a>
-
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card blue-grey darken-1">
+      <div class="card-action">
+        <a href="mailto:{{site.email}}">Please send an email to us to get your individual offer</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 ## Workshops for private Individuals
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title">One day onsite for adults only in H1 2021</span>
+        <p>
+        one day onsite where adults only
+        + option for begleitung fpr the first 6 weeks a be-weekly coaching call
 
-#### One day onsite for adults only in H1 2021
-one day onsite where adults only
-+ option for begleitung fpr the first 6 weeks a be-weekly coaching call
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="mailto:{{site.email}}">Please send an email to us for pre-registration</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-#### Two day onsite weekend for families in H2 2021
-two day onsite
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title">Two day onsite weekend for families in H2 2021</span>
+        <p>
+        two day onsite
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="mailto:{{site.email}}">Please send an email to us for pre-registration</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt uns eine Email.</a>
+
 
 
 ## Hire us as temporary "Remote Manager"
-for a longer period of time you can hire us as a tandem to help to implement a remote culture.
-32h together per week
 
-<a class="waves-effect waves-light btn-large" href="mailto:{{site.email}}" target="blank">Bei Interesse schreibt uns eine Email für mehr Details.</a>
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <p>
+        for a longer period of time you can hire us as a tandem to help to implement a remote culture.
+        32h together per week
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="mailto:{{site.email}}">Please send an email to us for more information</a>
+      </div>
+    </div>
+  </div>
+</div>
