@@ -45,7 +45,7 @@ cookies_banner: none # none or show - I use my own one
 syntax_highlighting: true # include the css for syntax highlighting
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
-google_analytics_tracking_id: UA-158901265-1
+google_analytics_tracking_id: 
 
 # languages
 languages: ["de", "en"]
